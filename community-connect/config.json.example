@@ -1,0 +1,37 @@
+{
+  "ibm_assistant":{
+    "workspace_id":"xxxx",
+    "assistant_id":"xxxx",
+    "iam_apikey":"xxxx",
+    "url":"https://gateway.watsonplatform.net/assistant/api"
+  },
+
+  "twilio":{
+    "account_sid":"ACxxxx",
+    "auth_token":"xxxx",
+    "whatsapp_no":"whatsapp:xxxx",
+    "messenger_no":"messenger:xxxx",
+    "number":""
+  },
+  "mongo":{
+    "client":"mongodb://localhost:27017/",
+
+  },
+  "couch":{
+    "api":" ",
+    "username":" ",
+    "password":" "
+  },
+  "mqtt":{
+    "broker":"xxxx",
+    "port":1883
+  },
+  "ibm_visual_recognition":{
+    "apikey":"xxxx"
+  },
+  "ibm_nlp":{
+    "apikey":"xxxx",
+    "url":"https://gateway.watsonplatform.net/natural-language-understanding/api"
+  }
+
+}
